@@ -1,0 +1,109 @@
+.aa
+{
+  background-color: 	#D3D3D3;;
+width:1330px;
+height: 75px;
+}
+.bb
+{
+  float: left;
+  padding-top: 30px;
+  padding-left: 30px;
+}
+.cc
+{
+  padding-top:30px;
+  padding-right: 30px;
+  float: right;
+}
+.dd
+{
+  background-color: blue;
+  color:white;
+  }
+  .ee
+  {
+  width: 300px;
+  height:500px;
+  float:left;
+}
+.ff
+ {
+  width:600px;
+  height:500px;
+  float: left;
+}
+.gg
+{
+  height: 50px;
+  font-size: 30px;
+  font-family: arial;
+}
+.hh
+{
+  font-size: 20px;
+  padding-left: 25px;
+  color:#958A8A;
+  font-family: arial;
+}
+.ii
+{
+  padding-left: 10px;
+  color:#958A8A;
+  font-family: arial;
+
+}
+.jj
+{
+  padding-top: 20px;
+  padding-bottom: 25px;
+
+}
+.kk
+{
+  padding-top: 50px;
+  font-size: 20px;
+  padding-left: 25px;
+  color:#958A8A;
+  font-family: arial;
+}
+.ll
+{
+  color:#958A8A;
+  font-family: arial;
+}
+.mm
+{
+  padding-top: 20px;
+  padding-left: 10px;
+}
+.oo
+{
+  background-color:	#E6E6FA;
+  width:370px;
+  height:500px;
+  float:left;
+}
+.xx
+{
+  background-color: blue;
+  color: white;
+  float: right;
+}
+.yy
+{
+  padding-top: 20px;
+  padding-right: 20px;
+}
+#aaa
+{
+  height: 35px;
+}
+#ccc
+{
+  height: 35px;
+}
+#ddd
+{
+  height: 35px;
+}
